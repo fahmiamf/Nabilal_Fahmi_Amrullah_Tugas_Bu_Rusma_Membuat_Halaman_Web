@@ -1,1 +1,48 @@
 # Nabilal_Fahmi_Amrullah_Tugas_Bu_Rusma_Membuat_Halaman_Web
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <h1>3 Game Series Terbaik untuk Genrenya</h1>
+ <p>Setiap game series mempunyai kepribadian genrenya masing-masing, bahkan suatu game dapat menghasilkan genre barunya sendiri dengan gabungan-gabungan antara genre lain, dan juga tambahan elemen baru untuk genre terbaru tersebut. Beberapa game series pun berhasil mempopulerkan genre gamenya, agar di kenal lebih banyak oleh para gamer.</p>
+ <p>Oleh karena itu, saya akan memberikan <b>3 Series Game Terbaik</b>, dengan genrenya masing-masing, untuk para gamer yang ingin mencoba genre game tersebut.</p>
+ <!--1-->
+    <h2>1. Action-Adventure</h2>
+    <p><b>Action-Adventure</b> adalah perpaduan antara genre <b>Action</b>, dan genre <b>Adventure</b>. Genre ini menuntut kecepatan refleks pada gameplay, dengan elemen petualangan seperti eksplorasi, pemecahan puzzle, dan cerita yang mengalir di setiap perjalanan sang player. Player biasanya mengendalikan satu karakter utama yang harus menghadapi musuh sekaligus mengekplorasi dunia pada game genre ini. Dan, berikut <b>3 Series Game Terbaik</b> pada genre <b>Action-Adventure</b> menurut saya:</p>
+    <ul type="disc">
+        <li><b>The Legend of Zelda</b></li>
+        <img src="TLOZ.png" alt="The Legend of Zelda" width="600">
+        <li><b>Metal Gear Solid</b></li>
+        <img src="MGS.png" alt="Metal Gear Solid" width="600">
+        <li><b>Castlevania</b></li>
+        <img src="C.png" alt="Castlevania" width="600">
+    </ul>
+<!--2-->
+    <h2>2. Role-Playing Game</h2>
+    <p><b>Role-Playing Game</b> atau lebih sering disebut <b>RPG</b>, adalah genre yang menekankan pada pengembangan karakter, dan kebebasan pemain dalam menentukan jalannya permainan. RPG biasanya memiliki sistem level, stat pada karakter, serta equipment-equipment yang bisa ditingkatkan seiring progres, ditambah jalan cerita yang sering kali bercabang sesuai pilihan player. Genre ini banyak disukai karena kedalaman naratif, dan kesempatan membangun identitas karakter sendiri. Dan, berikut <b>3 Series Game Terbaik</b> pada genre <b>Role-Playing Game</b> menurut saya:</p>
+    <ul type="disc">
+        <li><b>Final Fantasy</b></li>
+        <img src="FF.png" alt="Final Fantasy" width="600">
+        <li><b>Persona</b></li>
+        <img src="P.png" alt="Persona" width="600">
+        <li><b>Kingdom Hearts</b></li>
+        <img src="KH.png" alt="Kingdom Hearts" width="600">
+    </ul>
+<!--3-->
+    <h2>3. Fighting</h2>
+    <p><b>Fighting</b> adalah genre yang lebih berfokus pada pertarungan intens di arena terbatas. Permainan ini mengandalkan input combo, dan timing yang cepat untuk mengalahkan lawan, biasanya fighting game sendiri selalu dalam format satu lawan satu, tetapi setelah kemunculan Kizuna Encounter, X-Men vs. Street Fighter, dan Super Smash Bros. Fighting game dapat memiliki subgenre yang lebih luas. Fighting game juga menjadi ajang kompetisi eSports, tidak kalah dengan genre MOBA, dan First-Person Shooter. Dan, berikut ini <b>3 Series Game Terbaik</b> pada genre <b>Figthing</b> menurut saya:</p>
+    <ul type="disc">
+        <li><b>Guilty Gear</b></li>
+        <img src="GG.png" alt="Guilty Gear" width="600">
+        <li><b>Tekken</b></li>
+        <img src="T.png" alt="Tekken" width="600">
+        <li><b>Super Smash Bros.</b></li>
+        <img src="SSB.png" alt="Super Smash Bros." width="600">
+    </ul>
+ 
+</body>
+</html>
